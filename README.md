@@ -12,7 +12,7 @@ This powershell script will remove more than 3 days old snapshots from vCenter
 
     $ Add-PSSnapin VMware.VimAutomation.Core
 
-    $ Connect-VIServer -Server
+    $ Connect-VIServer -Server <vCenter name>
 
 3. Run the script Remove_VM_Snapshots-v2.ps1
 
