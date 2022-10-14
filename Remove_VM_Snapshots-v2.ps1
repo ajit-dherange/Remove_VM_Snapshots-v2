@@ -1,4 +1,5 @@
 ﻿
+# Remove 3 days old snapshots from Vmware vCenter ..... Ajit D.
 # Add-PSSnapin VMware.VimAutomation.Core
 # $vcenter = XXXX
 # Connecting to vCenter
